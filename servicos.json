@@ -1,0 +1,30 @@
+{
+	"detran":[
+		{
+		"estado":"PI",
+		"licenciamento":'http://taxas.detran.pi.gov.br/licenciamento/index.jsf' ,
+		"multa": 'http://taxas.detran.pi.gov.br/multa/index.jsf',
+		"crlv": 'http://www.detran.pi.gov.br/crlv/',
+		},
+		{
+		"estado":"CE",
+		"licenciamento": ,
+		"multa": ,
+		"crlv": ,
+		},
+		{
+		"estado":"DF",
+		"licenciamento": ,
+		"multa": ,
+		"crlv": ,
+		},
+		{
+		"estado":"SP",
+		"licenciamento": ,
+		"multa": ,
+		"crlv": ,
+		},
+				
+				
+	]
+}
