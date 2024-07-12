@@ -8,21 +8,21 @@
 		},
 		{
 		"estado":'CE',
-		"licenciamento": ,
-		"multa": ,
-		"crlv": ,
+		"licenciamento": '',
+		"multa": '',
+		"crlv": '',
 		},
 		{
 		"estado":"DF",
-		"licenciamento": ,
-		"multa": ,
-		"crlv": ,
+		"licenciamento": '',
+		"multa": '',
+		"crlv": '',
 		},
 		{
 		"estado":"SP",
 		"licenciamento": ,
-		"multa": ,
-		"crlv": ,
+		"multa": '',
+		"crlv": '',
 		}
 				
 				
