@@ -1,11 +1,10 @@
 {
 	"detran":[
 		{
-		"estado": "PI",
-		"licenciamento": 'http://taxas.detran.pi.gov.br/licenciamento/index.jsf' ,
-		"multa": 'http://taxas.detran.pi.gov.br/multa/index.jsf',
-		"crlv": 'http://www.detran.pi.gov.br/crlv/',
-		"logo":'https://lh3.googleusercontent.com/proxy/w9nDfC2qQD3uZxbfy_30oSCULrts-_zq8aEcmrxJLimA7fD9Sb7x9nuqtTtO3W_yNFeVEX7rj9Ub5tJ3gJhILy30QsyDPYi3dUMWuPyyy-sblSg'
+		"estado": "PI", "licenciamento": "http://taxas.detran.pi.gov.br/licenciamento/index.jsf" ,
+		"multa": "http://taxas.detran.pi.gov.br/multa/index.jsf",
+		"crlv": "http://www.detran.pi.gov.br/crlv/",
+		"logo":"https://lh3.googleusercontent.com/proxy/w9nDfC2qQD3uZxbfy_30oSCULrts-_zq8aEcmrxJLimA7fD9Sb7x9nuqtTtO3W_yNFeVEX7rj9Ub5tJ3gJhILy30QsyDPYi3dUMWuPyyy-sblSg"
 		}	
 	]
 }
